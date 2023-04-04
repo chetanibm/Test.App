@@ -17,7 +17,7 @@
 			<plugin>
 				<groupId>ibm.maven.plugins</groupId>
 				<artifactId>ace-maven-plugin</artifactId>
-				<version>11.34-SNAPSHOT</version>
+				<version>11.36</version>
 
 				<configuration>
 					<toolkitInstallDir>${ace.dir}</toolkitInstallDir>	
@@ -67,14 +67,14 @@
 		<repository>
 			<id>releases</id>
 			<name>Corporate Repository</name>
-			<url>${nexus.url}</url>
+			<url>http://169.38.85.9:8082/repository/releases/</url>
 			<layout>default</layout>
 		</repository>
-		
+
 	</distributionManagement>
 	<scm>
-		<url>git@github.com:chetanibm/Test.App.git</url>
-		<connection>scm:git:git@github.com:chetanibm/Test.App.git</connection>
-	  <tag>HEAD</tag>
-  </scm>	
+		<url>git@github.com:https://github.com/chetanibm/Test.App.git</url>
+	       <connection>scm:git:https://github.com/chetanibm/Test.App.git</connection>
+ 	       <tag>HEAD</tag>
+	</scm>
 </project>
