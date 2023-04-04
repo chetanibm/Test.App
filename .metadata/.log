@@ -1,0 +1,547 @@
+!SESSION 2023-04-01 02:04:27.900 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 02:04:31.197
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 02:04:38.448
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 02:05:28.918
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 02:14:10.372 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 02:14:12.562
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 02:14:12.865
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 02:14:16.303
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 02:15:02.339
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 02:37:06.209 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 02:37:08.386
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 02:37:08.659
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 02:37:12.193
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 02:37:58.082
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 02:46:09.819 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 02:46:12.027
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 02:46:12.330
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 02:46:15.852
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 02:47:01.857
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 02:52:23.524 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 02:52:25.751
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 02:52:26.038
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 02:52:29.484
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 02:53:16.559
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 03:06:37.093 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 03:06:39.293
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 03:06:39.571
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 03:06:42.974
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 03:07:30.105
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 03:12:47.014 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 03:12:49.165
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 03:12:49.441
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 03:12:52.816
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 03:13:38.037
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 11:55:18.914 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 11:55:21.815
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 11:55:22.366
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 11:55:28.032
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 11:56:21.284
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 12:11:07.060 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 12:11:09.293
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 12:11:09.559
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 12:11:12.965
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 12:12:00.038
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 12:30:12.138 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 12:30:14.311
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 12:30:14.583
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 12:30:17.960
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 12:31:05.155
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 12:36:32.282 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 12:36:34.523
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 12:36:34.827
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 12:36:38.234
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 12:37:25.425
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 13:09:25.464 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 13:09:27.882
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 13:09:28.156
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 13:09:31.558
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 13:10:17.736
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 13:14:12.701 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 13:14:14.874
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 13:14:15.154
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 13:14:18.603
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 13:15:05.666
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 13:25:54.358 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 13:25:56.555
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 13:25:56.825
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 13:26:00.303
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 13:26:47.249
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 13:47:10.919 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 13:47:13.080
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 13:47:13.355
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 13:47:16.868
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 13:48:03.927
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 13:57:11.707 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 13:57:14.040
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 13:57:14.316
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 13:57:17.865
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 13:58:04.776
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 22:29:46.861 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 22:29:49.048
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 22:29:49.340
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 22:29:52.840
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 22:30:39.938
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 22:34:08.310 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 22:34:10.515
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 22:34:10.810
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 22:34:14.334
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 22:35:01.442
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 22:51:49.818 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 22:51:52.075
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 22:51:52.377
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 22:51:55.805
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 22:52:43.171
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 22:54:42.736 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 22:54:44.994
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 22:54:45.289
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 22:54:48.782
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 22:55:34.969
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 22:57:17.144 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 22:57:19.369
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 22:57:19.680
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 22:57:23.078
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 22:58:09.322
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 23:02:52.959 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 23:02:55.305
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 23:02:55.631
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 23:02:59.007
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 23:03:46.206
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 23:07:46.620 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 23:07:48.845
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 23:07:49.131
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 23:07:52.570
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 23:08:39.725
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-01 23:33:16.054 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 23:33:18.330
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-01 23:33:18.639
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-01 23:33:22.122
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-01 23:34:08.370
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-04-04 09:36:43.195 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.fullversion=8.0.7.11 - pxa6480sr7fp11-20220601_01(SR7 FP11)
+JRE 1.8.0 Linux amd64-64-Bit Compressed References 20220511_28614 (JIT enabled, AOT enabled)
+OpenJ9   - 844d750
+OMR      - d297a72
+IBM      - 7175f82
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data /var/lib/jenkins/jobs/TestACE_3/workspace -b /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/ace/Test.App.bar -cleanBuild -a Test.App -deployAsSource -trace -v /var/lib/jenkins/jobs/TestACE_3/workspace/Test.App/target/createbartrace.txt
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-04 09:36:46.032
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-04 09:36:46.637
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-04 09:36:51.930
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-04 09:37:43.542
+!MESSAGE The workspace will exit with unsaved changes in this session.
