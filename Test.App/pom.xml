@@ -75,6 +75,5 @@
 	<scm>
 		<url>git@github.com:https://github.com/chetanibm/Test.App.git</url>
 	       <connection>scm:git:https://github.com/chetanibm/Test.App.git</connection>
- 	       <tag>HEAD</tag>
 	</scm>
 </project>
